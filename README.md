@@ -18,7 +18,7 @@ Olá! Eu sou Daniel, um profissional da área de TI desde que me conheço por ge
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielgomees&theme=transparent&bg_color=001C42&border_color=FFF&show_icons=true&icon_color=FFBF00C&hide_title=true&hide=stars&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielgomees&theme=transparent&bg_color=001C42&border_color=FFF&show_icons=true&icon_color=E94D5F&hide_title=true&hide=stars&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielgomees&layout=compact&bg_color=001C42&border_color=FFF&title_color=E94D5F&text_color=FFF)
 
