@@ -2,7 +2,7 @@
 
 Olá! Eu sou Daniel, um profissional da área de TI desde que me conheço por gente 🙂. Apaixonado por desafios e por trabalhar em soluções tecnológicas para qualquer problema, estou buscando aprimorar-me no desenvolvimento de sistemas do zero, e por isso, irei compartilhar os avanços da minha evolução por aqui.
 
-## Conecte -se comigo
+## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-g-oliveira/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:danielgomesdeoliveira@outlook.com.br)
