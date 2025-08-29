@@ -1,6 +1,6 @@
 # Daniel Gomes de Oliveira
 
-Olá! Eu sou Daniel, um profissional da área de TI desde que me conheço por gente 🙂. Apaixonado por desafios e por trabalhar em soluções tecnológicas para qualquer problema, estou buscando aprimorar-me no desenvolvimento de sistemas do zero, e por isso, irei compartilhar os avanços da minha evolução por aqui.
+Olá! Eu sou Daniel, um profissional da área de TI desde que me conheço por gente 🙂. Fã número um de desafios e de trabalhar em soluções tecnológicas para qualquer problema, estou buscando aprimorar-me no desenvolvimento de sistemas do zero, e por isso, irei compartilhar os avanços da minha evolução por aqui.
 
 ## Conecte-se comigo
 
